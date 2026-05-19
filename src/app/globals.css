@@ -305,25 +305,6 @@ select {
   }
 }
 
-@media (max-width: 640px) {
-  .site-nav {
-    display: grid !important;
-    grid-auto-flow: row;
-    grid-template-columns: repeat(4, max-content);
-    justify-content: start;
-    gap: 8px 12px;
-    overflow-x: visible;
-    padding-bottom: 0;
-    font-size: 0.72rem;
-    line-height: 1.15;
-    white-space: normal;
-  }
-
-  .site-nav a {
-    white-space: nowrap;
-  }
-}
-
 .feature-grid {
   display: grid;
   grid-template-columns: repeat(1, minmax(0, 1fr));
