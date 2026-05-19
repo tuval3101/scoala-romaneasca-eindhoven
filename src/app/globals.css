@@ -130,6 +130,138 @@ select {
   object-position: center;
 }
 
+.hero-section {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background: #17295a;
+}
+
+.hero-image {
+  display: block;
+  width: 100%;
+  height: clamp(140px, 23vw, 300px);
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-welcome {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(18px, 5vw, 72px);
+  padding-top: 16px;
+  padding-bottom: 16px;
+  color: #fff8dc;
+  text-align: center;
+  text-shadow: 0 3px 8px rgb(0 0 0 / 0.75);
+}
+
+.hero-welcome-logo {
+  width: clamp(58px, 9vw, 128px);
+  height: auto;
+  flex: 0 0 auto;
+  filter: drop-shadow(0 8px 12px rgb(0 0 0 / 0.45));
+}
+
+.hero-left {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: clamp(6px, 1vw, 10px);
+}
+
+.hero-welcome-copy {
+  display: grid;
+  gap: clamp(0px, 0.2vw, 4px);
+  max-width: min(760px, 68vw);
+  line-height: 1;
+  text-align: center;
+}
+
+.hero-welcome-top,
+.hero-welcome-mid {
+  color: white;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(0.95rem, 2.7vw, 3rem);
+  font-weight: 800;
+  letter-spacing: 0.03em;
+}
+
+.hero-welcome-to {
+  color: #f8dc74;
+  font-size: clamp(0.72rem, 1.45vw, 1.55rem);
+  font-weight: 900;
+}
+
+.hero-welcome-school,
+.hero-welcome-city {
+  color: #ffe581;
+  font-size: clamp(1.08rem, 3.2vw, 3.65rem);
+  font-weight: 900;
+  letter-spacing: 0.01em;
+}
+
+.hero-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 8px;
+  margin-top: 0;
+  max-width: none;
+}
+
+.hero-btn {
+  display: inline-flex;
+  min-height: 34px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 0.55rem 1rem;
+  color: #07142e;
+  font-size: 0.85rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: none;
+  transition: background-color 160ms ease, color 160ms ease, transform 160ms ease;
+  white-space: nowrap;
+}
+
+.hero-btn:hover {
+  color: white;
+  transform: translateY(-1px);
+}
+
+.hero-btn-register {
+  background: #9fd3ff;
+}
+
+.hero-btn-register:hover {
+  background: #0d4f8b;
+}
+
+.hero-btn-events {
+  background: #ffe58a;
+}
+
+.hero-btn-events:hover {
+  background: #d79b00;
+}
+
+.hero-btn-contact {
+  background: #ff9a9a;
+}
+
+.hero-btn-contact:hover {
+  background: #b91c1c;
+}
+
 @media (max-width: 980px) {
   .site-header-inner {
     flex-wrap: wrap;
@@ -307,6 +439,66 @@ select {
 }
 
 @media (max-width: 768px) {
+  .hero-welcome {
+    gap: 8px;
+    justify-content: space-between;
+    text-align: left;
+  }
+
+  .hero-welcome-copy {
+    gap: 0;
+    max-width: 58vw;
+    line-height: 0.9;
+  }
+
+  .hero-left {
+    gap: 4px;
+    flex-basis: 46vw !important;
+    max-width: 46vw !important;
+  }
+
+  .hero-welcome {
+    text-align: left !important;
+  }
+
+  .hero-cta-row {
+    display: flex;
+    gap: 4px;
+    max-width: none;
+  }
+
+  .hero-cta-row a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.32rem 0.42rem;
+    font-size: 0.48rem;
+    line-height: 1;
+    min-height: 20px;
+    white-space: nowrap;
+  }
+
+  .hero-welcome-logo {
+    width: 58px;
+  }
+
+  .hero-welcome-top,
+  .hero-welcome-mid {
+    font-size: clamp(0.56rem, 3.4vw, 0.9rem);
+    line-height: 0.95;
+  }
+
+  .hero-welcome-to {
+    font-size: clamp(0.48rem, 2.5vw, 0.7rem);
+    line-height: 0.95;
+  }
+
+  .hero-welcome-school,
+  .hero-welcome-city {
+    font-size: clamp(0.66rem, 4vw, 1.05rem);
+    line-height: 0.95;
+  }
+
   .asset-icon {
     width: 36px;
     height: 36px;

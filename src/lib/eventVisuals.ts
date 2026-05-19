@@ -12,8 +12,8 @@ export type EventVisual = {
 export const eventVisuals: Record<string, EventVisual> = {
   "stream-festival-2026": {
     src: streamMeaningLarge,
-    fit: "contain",
-    tone: "icon",
+    fit: "cover",
+    tone: "photo",
   },
   "ioana-macoveiciuc-book-event": {
     src: bookAsset,
