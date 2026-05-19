@@ -1,4 +1,5 @@
 import EventCard from "@/components/EventCard";
+import MediaGrid from "@/components/MediaGrid";
 import SectionTitle from "@/components/SectionTitle";
 import { events } from "@/data/events";
 
@@ -11,6 +12,14 @@ export default function EventsPage() {
       <div className="mt-10 grid gap-8 lg:grid-cols-2">
         {events.map((event) => <EventCard event={event} key={event.slug} />)}
       </div>
+      <section className="mt-14">
+        <SectionTitle eyebrow="Flyere" title="Materiale pentru evenimente">
+          Afise si resurse vizuale conectate cu evenimentele comunitatii.
+        </SectionTitle>
+        <div className="mt-8">
+          <MediaGrid categories={["Events"]} />
+        </div>
+      </section>
     </section>
   );
 }

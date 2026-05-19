@@ -4,8 +4,6 @@ export const publicRoutes = [
   { label: "Programe", href: "/programs" },
   { label: "Evenimente", href: "/events" },
   { label: "Comunitate", href: "/community" },
-  { label: "Parinti", href: "/parents" },
-  { label: "Media", href: "/media" },
   { label: "Contact", href: "/contact" },
 ];
 

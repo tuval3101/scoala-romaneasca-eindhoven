@@ -1,3 +1,4 @@
+import ProgramFamilyInfo from "@/components/ProgramFamilyInfo";
 import SectionTitle from "@/components/SectionTitle";
 import { programs } from "@/data/programs";
 
@@ -14,6 +15,7 @@ export default function StreamPage() {
           <article className="rounded-lg bg-white p-6 text-center font-semibold text-blue-950 shadow-sm" key={label}>{label}</article>
         ))}
       </div>
+      <ProgramFamilyInfo programName={program?.title ?? "STREAM / Science"} />
     </section>
   );
 }

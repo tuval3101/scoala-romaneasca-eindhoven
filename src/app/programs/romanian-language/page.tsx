@@ -1,3 +1,4 @@
+import ProgramFamilyInfo from "@/components/ProgramFamilyInfo";
 import SectionTitle from "@/components/SectionTitle";
 import { programs } from "@/data/programs";
 
@@ -14,6 +15,7 @@ export default function RomanianLanguagePage() {
         <p className="mt-3 text-slate-700">{program?.ageGroups.join(", ")}</p>
         <p className="mt-3 font-semibold text-green-800">{program?.mode}</p>
       </div>
+      <ProgramFamilyInfo programName={program?.title ?? "Limba romana"} />
     </section>
   );
 }

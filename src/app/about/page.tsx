@@ -1,3 +1,4 @@
+import MediaGrid from "@/components/MediaGrid";
 import SectionTitle from "@/components/SectionTitle";
 
 export default function AboutPage() {
@@ -13,6 +14,14 @@ export default function AboutPage() {
           </article>
         ))}
       </div>
+      <section className="mt-14">
+        <SectionTitle eyebrow="Recunoastere" title="Premii si aparitii media">
+          Materialele de presa si recunoasterile publice sunt integrate aici, langa povestea scolii.
+        </SectionTitle>
+        <div className="mt-8">
+          <MediaGrid categories={["Press", "Homepage"]} />
+        </div>
+      </section>
     </section>
   );
 }
