@@ -1,0 +1,18 @@
+import SectionTitle from "@/components/SectionTitle";
+
+export default function AboutPage() {
+  return (
+    <section className="container-shell py-16">
+      <SectionTitle eyebrow="Despre" title="Misiune, istorie si identitate bilingva">
+        Din 2008, Scoala Romaneasca din Eindhoven sprijina copiii si familiile in pastrarea limbii romane si in construirea unei comunitati deschise in Olanda.
+      </SectionTitle>
+      <div className="mt-10 grid gap-6 md:grid-cols-2">
+        {["Misiune: cursuri si activitati care incurajeaza comunicarea in romana.", "Istorie: o scoala de weekend crescuta prin implicarea familiilor si voluntarilor.", "Comunitate: un spatiu pentru copii bilingvi, parinti si prieteni ai culturii romane.", "Identitate: punem impreuna limba romana, contextul olandez si educatia moderna."].map((item) => (
+          <article className="rounded-lg bg-white p-6 shadow-sm" key={item}>
+            <p className="leading-7 text-slate-700">{item}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  );
+}
