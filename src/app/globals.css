@@ -303,6 +303,10 @@ select {
     height: 42px;
     max-width: 42px;
   }
+
+  .site-nav a[href="/contact"] {
+    display: none;
+  }
 }
 
 .feature-grid {
