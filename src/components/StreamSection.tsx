@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import streamLogo from "@/resource/assets/logo_stream.png";
 import streamPoster from "@/resource/images/stream_meaning_poster1.png";
 
@@ -19,6 +20,22 @@ export default function StreamSection() {
           <p className="mt-5 text-base leading-7 text-slate-700">
             STREAM aduce invatarea aproape de copii prin curiozitate, experimente, lectura, creativitate si proiecte practice. Este un cadru in care copiii descopera idei noi, colaboreaza si invata prin joaca serioasa.
           </p>
+          <div className="mt-6 flex flex-wrap gap-3">
+            <Link
+              className="focus-ring inline-flex rounded-full bg-blue-950 px-5 py-3 text-sm font-semibold text-white hover:bg-blue-900"
+              href="/events/stream-festival-2026"
+            >
+              Vezi programul special
+            </Link>
+            <a
+              className="focus-ring inline-flex rounded-full border border-blue-950/20 bg-[#ffe58a] px-5 py-3 text-sm font-semibold text-blue-950 hover:bg-[#d79b00] hover:text-white"
+              href="https://www.google.com/maps/search/?api=1&query=Blaarthemseweg%2090%2C%20Veldhoven"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Vezi locatia
+            </a>
+          </div>
         </div>
         <div className="stream-image-wrap">
           <Image

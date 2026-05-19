@@ -1,10 +1,8 @@
 import type { StaticImageData } from "next/image";
-import bookAsset from "@/resource/assets/book_asset_w.png";
-import eventsAsset from "@/resource/assets/events_asset_w.png";
 import streamMeaningLarge from "@/resource/images/stream_meaning_l.png";
 
 export type EventVisual = {
-  src: StaticImageData;
+  src: StaticImageData | string;
   fit: "cover" | "contain";
   tone: "photo" | "icon";
 };
@@ -16,13 +14,13 @@ export const eventVisuals: Record<string, EventVisual> = {
     tone: "photo",
   },
   "ioana-macoveiciuc-book-event": {
-    src: bookAsset,
+    src: "/images/events/ioana-book-event.jpg",
     fit: "contain",
-    tone: "icon",
+    tone: "photo",
   },
   "autumn-community-day": {
-    src: eventsAsset,
+    src: "/images/events/autumn-community-day.png",
     fit: "contain",
-    tone: "icon",
+    tone: "photo",
   },
 };

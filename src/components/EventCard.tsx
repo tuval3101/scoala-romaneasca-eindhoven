@@ -14,6 +14,7 @@ export default function EventCard({ event }: { event: Event }) {
           <Image
             alt=""
             className={visual.fit === "contain" ? "event-media-img-contain" : "event-media-img-cover"}
+            fill
             src={visual.src}
             sizes="(max-width: 768px) 100vw, 520px"
           />

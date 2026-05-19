@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "file": "Acasa_ Home.html",
+      "detectedPageType": "home",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Acasa_ Home.html",
+      "usefulness": "high",
+      "notes": "Contains homepage structure, intro content, hero/welcome images, and contact/footer reference."
+    },
+    {
+      "file": "Bib.html",
+      "detectedPageType": "library",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Bib.html",
+      "usefulness": "high",
+      "notes": "Contains library/books copy and book-cover imagery."
+    },
+    {
+      "file": "Despre noi_ About us.html",
+      "detectedPageType": "about",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us.html",
+      "usefulness": "high",
+      "notes": "Contains school description, purpose, organization context, and supporting images."
+    },
+    {
+      "file": "Echipa.html",
+      "detectedPageType": "team",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Echipa.html",
+      "usefulness": "high",
+      "notes": "Contains team/volunteer copy and team-related imagery."
+    },
+    {
+      "file": "Evenimente.html",
+      "detectedPageType": "events",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Evenimente.html",
+      "usefulness": "high",
+      "notes": "Contains event archive content, flyers, posters, and links."
+    },
+    {
+      "file": "Legături.html",
+      "detectedPageType": "partners",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Legături.html",
+      "usefulness": "high",
+      "notes": "Contains partners/supporters list and footer supporter context."
+    },
+    {
+      "file": "Program.html",
+      "detectedPageType": "program",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Program.html",
+      "usefulness": "high",
+      "notes": "Contains class/workshop schedule description and program information."
+    },
+    {
+      "file": "Science.html",
+      "detectedPageType": "science-stream",
+      "localPath": "D:\\Website SCR 2026\\website clone\\Science.html",
+      "usefulness": "high",
+      "notes": "Contains STREAM festival content, science partners, posters, registration/support links, and previous editions."
+    }
+  ]
+}

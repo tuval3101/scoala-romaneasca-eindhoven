@@ -1,5 +1,7 @@
 import MediaGrid from "@/components/MediaGrid";
 import SectionTitle from "@/components/SectionTitle";
+import VimeoVideoCard from "@/components/VimeoVideoCard";
+import { historyVideos } from "@/data/historyVideos";
 
 export default function AboutPage() {
   return (
@@ -20,6 +22,16 @@ export default function AboutPage() {
         </SectionTitle>
         <div className="mt-8">
           <MediaGrid categories={["Press", "Homepage"]} />
+        </div>
+      </section>
+      <section className="mt-14">
+        <SectionTitle eyebrow="Istorie video" title="Momente din arhiva scolii">
+          Clipurile de mai jos sunt integrate din arhiva Vimeo a Scolii Romanesti din Eindhoven si pot fi redate direct din pagina.
+        </SectionTitle>
+        <div className="mt-8 grid gap-6 lg:grid-cols-2">
+          {historyVideos.map((video) => (
+            <VimeoVideoCard key={video.vimeoId} video={video} />
+          ))}
         </div>
       </section>
     </section>

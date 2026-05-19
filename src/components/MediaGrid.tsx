@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { mediaItems } from "@/data/media";
 
 type MediaGridProps = {
@@ -13,9 +14,17 @@ export default function MediaGrid({ categories }: MediaGridProps) {
     <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
       {items.map((item) => (
         <article className="rounded-lg border border-blue-950/10 bg-white p-4 shadow-sm" key={item.title}>
-          <div className="grid aspect-[4/3] place-items-center rounded-md bg-slate-100 text-sm font-semibold text-slate-500">{item.type}</div>
+          <div className="relative grid aspect-[4/3] place-items-center overflow-hidden rounded-md bg-[#fffaf0] text-sm font-semibold text-slate-500">
+            <Image
+              alt=""
+              className="object-contain"
+              fill
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 360px"
+              src={item.path}
+            />
+          </div>
           <h3 className="mt-4 font-semibold text-blue-950">{item.title}</h3>
-          <p className="mt-1 text-sm text-slate-600">{item.category}</p>
+          <p className="mt-1 text-sm text-slate-600">{item.type} / {item.category}</p>
         </article>
       ))}
     </div>

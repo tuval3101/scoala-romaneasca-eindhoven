@@ -1,0 +1,914 @@
+{
+  "files": [
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Acasa_ Home_files\\52f9ceb1ea8c77dee8d76f375b2b9d04_570x440_fit.PNG",
+      "copiedPath": "assets/stream/scoala-romaneasca-logo.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\52f9ceb1ea8c77dee8d76f375b2b9d04_570x440_fit.PNG",
+      "copiedPath": "assets/stream/scoala-romaneasca-logo.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\52f9ceb1ea8c77dee8d76f375b2b9d04_570x440_fit.PNG",
+      "copiedPath": "assets/stream/scoala-romaneasca-logo.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Echipa_files\\52f9ceb1ea8c77dee8d76f375b2b9d04_570x440_fit.PNG",
+      "copiedPath": "assets/stream/scoala-romaneasca-logo.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Legături_files\\52f9ceb1ea8c77dee8d76f375b2b9d04_570x440_fit.PNG",
+      "copiedPath": "assets/stream/scoala-romaneasca-logo.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Program_files\\52f9ceb1ea8c77dee8d76f375b2b9d04_570x440_fit.PNG",
+      "copiedPath": "assets/stream/scoala-romaneasca-logo.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\52f9ceb1ea8c77dee8d76f375b2b9d04_570x440_fit.PNG",
+      "copiedPath": "assets/stream/scoala-romaneasca-logo.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Acasa_ Home_files\\97b884ca72a8237505b1375eb941d20c_1720x1290_fit.jpg",
+      "copiedPath": "assets/hero/97b884ca72a8237505b1375eb941d20c-1720x1290-fit.jpg",
+      "category": "hero",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Acasa_ Home_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Echipa_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Legături_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Program_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\b4bc5b8b280aba4f57ae3ac2783acb23_1800x414_fit.JPEG",
+      "copiedPath": "assets/stream/school-header-banner.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Acasa_ Home_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Echipa_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Legături_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Program_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\logo-DPRP-v14-ts1696261441.jpg",
+      "copiedPath": "assets/logos/dprp-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Acasa_ Home_files\\STREAM Poster 2026.jpg",
+      "copiedPath": "assets/stream/festival-stream-2026-poster.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\STREAM Poster 2026.jpg",
+      "copiedPath": "assets/stream/festival-stream-2026-poster.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Acasa_ Home_files\\Welcome-ts1701101887.png",
+      "copiedPath": "assets/hero/welcome-homepage.png",
+      "category": "hero",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\0cdbf93a430faf777a198ca1e8ecfb06_556x742_fill.JPEG",
+      "copiedPath": "assets/library/0cdbf93a430faf777a198ca1e8ecfb06-556x742-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\1d79c59beefa79fb3fd467180a58411e_556x740_fill.JPEG",
+      "copiedPath": "assets/library/1d79c59beefa79fb3fd467180a58411e-556x740-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\390049d46689510dde5ac8df969fc4c0_fill.JPEG",
+      "copiedPath": "assets/library/390049d46689510dde5ac8df969fc4c0-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\4ecebdc487cfd93d4e84e34c22f03083_fill.JPEG",
+      "copiedPath": "assets/library/4ecebdc487cfd93d4e84e34c22f03083-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\50e1635e856698dca1e710180336661f_556x742_fill.JPEG",
+      "copiedPath": "assets/library/50e1635e856698dca1e710180336661f-556x742-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\65155f4848365ae8da710065d3afab11_556x742_fill.JPEG",
+      "copiedPath": "assets/library/65155f4848365ae8da710065d3afab11-556x742-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\6a9a9e019600239a673c5676a20eb8e4_556x742_fill.JPEG",
+      "copiedPath": "assets/library/6a9a9e019600239a673c5676a20eb8e4-556x742-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\774f0b8b1d92308c3df5953f93aacea4_fill.JPEG",
+      "copiedPath": "assets/library/774f0b8b1d92308c3df5953f93aacea4-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\9b53c448057e34b40f8a2c4669581fb6_fill.JPEG",
+      "copiedPath": "assets/library/9b53c448057e34b40f8a2c4669581fb6-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\c4152ce8d96f6bf010cfc31367c37888_fill.JPEG",
+      "copiedPath": "assets/library/c4152ce8d96f6bf010cfc31367c37888-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\ca4d111d935c94fabeb859f014906b4d_556x742_fill.JPEG",
+      "copiedPath": "assets/library/ca4d111d935c94fabeb859f014906b4d-556x742-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\d83827a6c1f5c573f8d1e9c0c8d30ce7_fill.JPEG",
+      "copiedPath": "assets/library/d83827a6c1f5c573f8d1e9c0c8d30ce7-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\da86a4441bea7e111d89cb853cd9e3c9_556x742_fill.JPEG",
+      "copiedPath": "assets/library/da86a4441bea7e111d89cb853cd9e3c9-556x742-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\e915c655212922640792335558ba3e39_fit.JPEG",
+      "copiedPath": "assets/library/e915c655212922640792335558ba3e39-fit.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\fae81431ff3df8e2d79d53e6b27f6858_fill.JPEG",
+      "copiedPath": "assets/library/fae81431ff3df8e2d79d53e6b27f6858-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\fcf918976635c12322d189f2242ea6ec_fit.JPEG",
+      "copiedPath": "assets/library/fcf918976635c12322d189f2242ea6ec-fit.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\fe2d08ffc504168e1bc06ebfe34b79d8_556x742_fill.JPEG",
+      "copiedPath": "assets/library/fe2d08ffc504168e1bc06ebfe34b79d8-556x742-fill.jpeg",
+      "category": "library",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Bib_files\\image-ts1686580821.png",
+      "copiedPath": "assets/events/image-ts1686580821.png",
+      "category": "events",
+      "renamed": false,
+      "duplicateSkipped": true
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\image-ts1686580821.png",
+      "copiedPath": "assets/events/image-ts1686580821.png",
+      "category": "events",
+      "renamed": false,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\75f913813e6532bdbdb94596d4fd9499_fit.jpg",
+      "copiedPath": "assets/gallery/75f913813e6532bdbdb94596d4fd9499-fit.jpg",
+      "category": "gallery",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\7fc1ff09bef95d7512afa5953ba42c8f_fit.JPEG",
+      "copiedPath": "assets/gallery/7fc1ff09bef95d7512afa5953ba42c8f-fit.jpeg",
+      "category": "gallery",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\82f95ce432ea96418bec917a1cdc0c3b_fit.jpg",
+      "copiedPath": "assets/gallery/82f95ce432ea96418bec917a1cdc0c3b-fit.jpg",
+      "category": "gallery",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\88dbc2dfe37fc520627aed991ec08e2c_64x42_fit.jpg",
+      "copiedPath": "assets/gallery/88dbc2dfe37fc520627aed991ec08e2c-64x42-fit.jpg",
+      "category": "gallery",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\c883d5fb98d5ee82e53f9ac145876314_126x66_fit.jpg",
+      "copiedPath": "assets/gallery/c883d5fb98d5ee82e53f9ac145876314-126x66-fit.jpg",
+      "category": "gallery",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Despre noi_ About us_files\\d6c7d217a8023c8fb787b99baeec96c3_fit.jpg",
+      "copiedPath": "assets/gallery/d6c7d217a8023c8fb787b99baeec96c3-fit.jpg",
+      "category": "gallery",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Echipa_files\\27b8d8520e77a8afadf24bacc35863a8_fit.jpg",
+      "copiedPath": "assets/team/27b8d8520e77a8afadf24bacc35863a8-fit.jpg",
+      "category": "team",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\069210dbd6616dc57d47e85e5f14f3b9_fit.JPEG",
+      "copiedPath": "assets/events/069210dbd6616dc57d47e85e5f14f3b9-fit.jpeg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\3310eb5329f98efeace27811b9fccbdf_fit.JPEG",
+      "copiedPath": "assets/events/3310eb5329f98efeace27811b9fccbdf-fit.jpeg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\51e3e4c10628ce9be379a4e2918438f3_fit.PNG",
+      "copiedPath": "assets/events/51e3e4c10628ce9be379a4e2918438f3-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\66c7e8e3145bd53607f1a39b9649b52e_fit.png",
+      "copiedPath": "assets/events/66c7e8e3145bd53607f1a39b9649b52e-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\758953a0b5956b29d29f53578051bc6b_574x144_fit.png",
+      "copiedPath": "assets/events/758953a0b5956b29d29f53578051bc6b-574x144-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\7d93a7929dbb7b4c622628b70e82efee_fit.jpg",
+      "copiedPath": "assets/events/7d93a7929dbb7b4c622628b70e82efee-fit.jpg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\867a7133302be940b0b385ca7419d896_fit.png",
+      "copiedPath": "assets/events/867a7133302be940b0b385ca7419d896-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\87d3be226b200a8e8d7e010d4b0d2de6_1710x1082_fit.jpg",
+      "copiedPath": "assets/events/87d3be226b200a8e8d7e010d4b0d2de6-1710x1082-fit.jpg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\8d2b38ca419c54a4be78242ccc0115bd_fit.png",
+      "copiedPath": "assets/events/8d2b38ca419c54a4be78242ccc0115bd-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\999ca6abad1d29adfb7acf676ba03efb_fit.png",
+      "copiedPath": "assets/events/999ca6abad1d29adfb7acf676ba03efb-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\bc44f9222f2d7c78eadbbea8cf25e714_fit.png",
+      "copiedPath": "assets/events/bc44f9222f2d7c78eadbbea8cf25e714-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\c24b73acc7abec92b32dfd2eaa3c19a3_fit.jpg",
+      "copiedPath": "assets/events/c24b73acc7abec92b32dfd2eaa3c19a3-fit.jpg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\c624c4fc52c540c5613909f734e8b859_fit.jpg",
+      "copiedPath": "assets/events/c624c4fc52c540c5613909f734e8b859-fit.jpg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\ccab31064d38547c4f0843c790eac181_fit.JPEG",
+      "copiedPath": "assets/events/ccab31064d38547c4f0843c790eac181-fit.jpeg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\d097922e9d9f78e93d0be0441d4947c1_fit.png",
+      "copiedPath": "assets/events/d097922e9d9f78e93d0be0441d4947c1-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\d1676d044f920db86df28ef868172be1_1720x968_fit.JPEG",
+      "copiedPath": "assets/events/d1676d044f920db86df28ef868172be1-1720x968-fit.jpeg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\d692d546d4de572ef074308c7930d01d_fit.png",
+      "copiedPath": "assets/events/d692d546d4de572ef074308c7930d01d-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\de11aa901c74823bac7ed1a52741b509_fit.png",
+      "copiedPath": "assets/events/de11aa901c74823bac7ed1a52741b509-fit.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\image-ts1698873606.png",
+      "copiedPath": "assets/events/image-ts1698873606.png",
+      "category": "events",
+      "renamed": false,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\Poster Ioana.jpg",
+      "copiedPath": "assets/events/poster-ioana.jpg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\resources-faef71fe1e57ef-71930f3bf3.JPEG",
+      "copiedPath": "assets/events/resources-faef71fe1e57ef-71930f3bf3.jpeg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\Sebarea toamnei (2)-ts1696418980.png",
+      "copiedPath": "assets/events/sebarea-toamnei-2-ts1696418980.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\Stream Horizontal 1.png",
+      "copiedPath": "assets/stream/stream-horizontal-1.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\Ziua Romaneasca 2025 3.jpg",
+      "copiedPath": "assets/events/ziua-romaneasca-2025-3.jpg",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Evenimente_files\\Înapoi la scoală (1)-ts1696419011.png",
+      "copiedPath": "assets/events/inapoi-la-scoala-1-ts1696419011.png",
+      "category": "events",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Legături_files\\758953a0b5956b29d29f53578051bc6b_716x180_fit.png",
+      "copiedPath": "assets/partners/758953a0b5956b29d29f53578051bc6b-716x180-fit.png",
+      "category": "partners",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Legături_files\\image-ts1696263425.png",
+      "copiedPath": "assets/partners/image-ts1696263425.png",
+      "category": "partners",
+      "renamed": false,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Legături_files\\image-ts1701718634.png",
+      "copiedPath": "assets/partners/image-ts1701718634.png",
+      "category": "partners",
+      "renamed": false,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Program_files\\ecf6ef694afa435d59ee29347cad9bd0_fit.jpg",
+      "copiedPath": "assets/programs/ecf6ef694afa435d59ee29347cad9bd0-fit.jpg",
+      "category": "programs",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\00767dd2af07156b3f7e11c43d529650_1500x1138_0x409_1500x2000_crop.jpg",
+      "copiedPath": "assets/stream/00767dd2af07156b3f7e11c43d529650-1500x1138-0x409-1500x2000-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\072f7cc08ea1befcf0e2690948d23138_fit.jpg",
+      "copiedPath": "assets/stream/072f7cc08ea1befcf0e2690948d23138-fit.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\0b86c2d5b59a74b1cbb5d9f454a5fef9_fit.jpg",
+      "copiedPath": "assets/stream/0b86c2d5b59a74b1cbb5d9f454a5fef9-fit.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\17c5e46ae2e52773902c32af7c4b90ef_1360x370_fit.jpg",
+      "copiedPath": "assets/stream/17c5e46ae2e52773902c32af7c4b90ef-1360x370-fit.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\1e6756d24d6ae22e72051e500954560d_2032x502_fit.png",
+      "copiedPath": "assets/stream/1e6756d24d6ae22e72051e500954560d-2032x502-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\269914b851b19cae71a332f0e2d7973e_fit.png",
+      "copiedPath": "assets/stream/269914b851b19cae71a332f0e2d7973e-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\2e5659eeb9719b9e4384192d4509e659_1714x1072_fit.png",
+      "copiedPath": "assets/stream/2e5659eeb9719b9e4384192d4509e659-1714x1072-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\33d741f581c0a190585346e2ab5c593d_fit.png",
+      "copiedPath": "assets/stream/33d741f581c0a190585346e2ab5c593d-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\3d96951af448497be3b9d5b69e612b4a_996x598_604x0_1600x900_crop.jpg",
+      "copiedPath": "assets/stream/3d96951af448497be3b9d5b69e612b4a-996x598-604x0-1600x900-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\4375a8c13666ab613af659af9788e46f_798x628_fit.jpg",
+      "copiedPath": "assets/stream/4375a8c13666ab613af659af9788e46f-798x628-fit.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\4df26706dcea28cfdf2b05a9524d4db4_494x628_fit.png",
+      "copiedPath": "assets/stream/4df26706dcea28cfdf2b05a9524d4db4-494x628-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\5326846bab1c6e4d54db7e29b708e6a8_1536x826_0x69_1536x1024_crop.jpg",
+      "copiedPath": "assets/stream/5326846bab1c6e4d54db7e29b708e6a8-1536x826-0x69-1536x1024-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\557f670e7f6d9f967e7a6cfd43eb1d53_927x1224_197x119_1280x1600_crop.jpg",
+      "copiedPath": "assets/stream/557f670e7f6d9f967e7a6cfd43eb1d53-927x1224-197x119-1280x1600-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\604daf64c69441ae036f4ace1bd08450_1600x830_0x370_1600x1200_crop.jpg",
+      "copiedPath": "assets/stream/604daf64c69441ae036f4ace1bd08450-1600x830-0x370-1600x1200-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\73c3ce4572a7f4635b1c2a4938a82c8a_300x214_0x39_300x300_crop.png",
+      "copiedPath": "assets/stream/73c3ce4572a7f4635b1c2a4938a82c8a-300x214-0x39-300x300-crop.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\767722243532c220e34568d249aca12e_1600x1249_0x144_1600x1600_crop.jpg",
+      "copiedPath": "assets/stream/767722243532c220e34568d249aca12e-1600x1249-0x144-1600x1600-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\7a7687d674d7f8bdf812c9fccd41ad0d_1210x802_394x0_1604x802_crop.png",
+      "copiedPath": "assets/stream/7a7687d674d7f8bdf812c9fccd41ad0d-1210x802-394x0-1604x802-crop.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\842787c5dca704d0edf1d41005f144f5_300x161_0x13_300x183_crop.png",
+      "copiedPath": "assets/stream/842787c5dca704d0edf1d41005f144f5-300x161-0x13-300x183-crop.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\aa299aee99b3a98fcd762feba44e9098_1224x536_fit.png",
+      "copiedPath": "assets/stream/aa299aee99b3a98fcd762feba44e9098-1224x536-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Art between words.jpg",
+      "copiedPath": "assets/stream/art-between-words.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\b2dd52ccc13389fff12d4dea5b75fb0e_1152x1685_0x0_1152x2048_crop.jpg",
+      "copiedPath": "assets/stream/b2dd52ccc13389fff12d4dea5b75fb0e-1152x1685-0x0-1152x2048-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\b3ce00491e6efe8d483b63bb1ae3bacc_fit.jpg",
+      "copiedPath": "assets/stream/b3ce00491e6efe8d483b63bb1ae3bacc-fit.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Body Scratch.png",
+      "copiedPath": "assets/stream/body-scratch.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\c1d5443e5e1d12376615b89f812379f3_480x682_fit.png",
+      "copiedPath": "assets/stream/c1d5443e5e1d12376615b89f812379f3-480x682-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\c2799560853251fe4656c895ec6baf22_1718x584_fit.png",
+      "copiedPath": "assets/stream/c2799560853251fe4656c895ec6baf22-1718x584-fit.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\c4beeea88e8572c2e5396629a99c114b_500x465_0x0_500x500_crop.png",
+      "copiedPath": "assets/stream/c4beeea88e8572c2e5396629a99c114b-500x465-0x0-500x500-crop.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\CartiPentruMatei.jpg",
+      "copiedPath": "assets/stream/carti-pentru-matei-logo.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\CommitGlobal logo.png",
+      "copiedPath": "assets/logos/commit-global-logo.png",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\daf8cfbb1535f54d7b5bcf6672217896_fit.jpg",
+      "copiedPath": "assets/stream/daf8cfbb1535f54d7b5bcf6672217896-fit.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\e7f23b5472807fe2a127ab183e5e86eb_381x325_69x259_450x800_crop.jpg",
+      "copiedPath": "assets/stream/e7f23b5472807fe2a127ab183e5e86eb-381x325-69x259-450x800-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\ec24590b9c238a6c892b45b5a92ed1f4_1690x433_0x187_1690x822_crop.png",
+      "copiedPath": "assets/stream/ec24590b9c238a6c892b45b5a92ed1f4-1690x433-0x187-1690x822-crop.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\EDSnaps.jpg",
+      "copiedPath": "assets/stream/edsnaps.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\f52d0ba1b809bb4034b055c8888bb8e8_fit.jpg",
+      "copiedPath": "assets/stream/f52d0ba1b809bb4034b055c8888bb8e8-fit.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\f7d19bd53e87319f1e9390fe1818d6e8_3000x1517_0x708_3000x3000_crop.png",
+      "copiedPath": "assets/stream/f7d19bd53e87319f1e9390fe1818d6e8-3000x1517-0x708-3000x3000-crop.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Face painting.jpg",
+      "copiedPath": "assets/stream/face-painting.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\ff998a20709ad76b0dd56995fad588c9_2048x895_0x115_2048x1182_crop.jpg",
+      "copiedPath": "assets/stream/ff998a20709ad76b0dd56995fad588c9-2048x895-0x115-2048x1182-crop.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Foodie Boulevard Official Horizontal Logo.png",
+      "copiedPath": "assets/logos/foodie-boulevard-logo.png",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Francofilous.jpg",
+      "copiedPath": "assets/stream/francofilous-logo.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\image-ts1686577724.png",
+      "copiedPath": "assets/stream/image-ts1686577724.png",
+      "category": "stream",
+      "renamed": false,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Kletskoppen.jpg",
+      "copiedPath": "assets/stream/kletskoppen-logo.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Logo Persian school.jpg",
+      "copiedPath": "assets/logos/persian-school-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\MCS Formulas - Logo - Gold on white background - Centrered_page-0001.jpg",
+      "copiedPath": "assets/logos/mcs-formulas-logo.jpg",
+      "category": "logos",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Poster STREAM 3.png",
+      "copiedPath": "assets/stream/festival-stream-poster.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\resources-faef71fe1e57ef-3d28de64eb.JPEG",
+      "copiedPath": "assets/stream/resources-faef71fe1e57ef-3d28de64eb.jpeg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Romanian School Eindhoven.png",
+      "copiedPath": "assets/stream/romanian-school-eindhoven.png",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Team-ts1694807092.jpg",
+      "copiedPath": "assets/stream/stream-team.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Woven stars.jpg",
+      "copiedPath": "assets/stream/woven-stars.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    },
+    {
+      "originalPath": "D:\\Website SCR 2026\\website clone\\Science_files\\Yummy trailer.jpg",
+      "copiedPath": "assets/stream/yummy-trailer.jpg",
+      "category": "stream",
+      "renamed": true,
+      "duplicateSkipped": false
+    }
+  ]
+}

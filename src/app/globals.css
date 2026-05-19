@@ -442,6 +442,90 @@ select {
   margin-bottom: 22px;
 }
 
+.stream-festival-overview {
+  --stream-overview-height: clamp(520px, 52vw, 680px);
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
+  gap: 24px;
+  align-items: stretch;
+  margin-top: 32px;
+}
+
+.stream-festival-poster {
+  position: relative;
+  height: var(--stream-overview-height);
+  overflow: hidden;
+  border: 1px solid rgb(23 32 51 / 0.1);
+  border-radius: 8px;
+  background: #fffaf0;
+  box-shadow: 0 12px 34px rgb(23 32 51 / 0.08);
+}
+
+.stream-festival-info-grid {
+  display: grid;
+  grid-template-rows: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  height: var(--stream-overview-height);
+}
+
+.stream-festival-info-card {
+  display: flex;
+  min-height: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  border: 1px solid rgb(23 32 51 / 0.1);
+  border-radius: 8px;
+  background: white;
+  padding: 18px;
+  box-shadow: 0 10px 28px rgb(23 32 51 / 0.07);
+}
+
+.stream-festival-logo-row {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+.stream-festival-logo {
+  position: relative;
+  display: block;
+  width: clamp(96px, 10vw, 150px);
+  height: 72px;
+  overflow: hidden;
+  border-radius: 6px;
+  background: #fffaf0;
+}
+
+.logo-shake:hover {
+  animation: logo-shake 420ms ease-in-out;
+}
+
+@keyframes logo-shake {
+  0%,
+  100% {
+    transform: translateX(0) rotate(0deg);
+  }
+
+  20% {
+    transform: translateX(-2px) rotate(-2deg);
+  }
+
+  40% {
+    transform: translateX(2px) rotate(2deg);
+  }
+
+  60% {
+    transform: translateX(-1px) rotate(-1deg);
+  }
+
+  80% {
+    transform: translateX(1px) rotate(1deg);
+  }
+}
+
 @media (max-width: 768px) {
   .hero-welcome {
     gap: 8px;
@@ -532,6 +616,41 @@ select {
 
   .school-asset {
     width: 58px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .stream-festival-overview {
+    grid-template-columns: 1fr;
+  }
+
+  .stream-festival-poster,
+  .stream-festival-info-grid {
+    min-height: auto;
+  }
+
+  .stream-festival-poster {
+    aspect-ratio: 1201 / 1699;
+  }
+
+  .stream-festival-info-grid {
+    grid-template-rows: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .stream-festival-info-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .stream-festival-logo-row {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .stream-festival-logo {
+    width: min(150px, 42vw);
   }
 }
 

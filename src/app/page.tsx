@@ -20,7 +20,8 @@ export default function HomePage() {
     <>
       <HomeBanner />
       <Hero title="Scoala Romaneasca din Eindhoven" subtitle="Un loc de intalnire pentru copiii si familiile care pastreaza vie limba romana, cultura si bucuria de a invata impreuna." />
-      <section className="container-shell py-16">
+      <StreamSection />
+      <section className="container-shell pb-16">
         <div className="feature-grid">
           <FeatureCard title="Romanian classes" href="/programs/romanian-language" icon={schoolAsset}>Cursuri de limba si cultura romana pentru mai multe grupe de varsta.</FeatureCard>
           <FeatureCard title="STREAM Festival" href="/programs/stream" icon={scienceAsset}>Ateliere de stiinta, tehnologie, lectura, arta si comunitate.</FeatureCard>
@@ -28,7 +29,6 @@ export default function HomePage() {
           <FeatureCard title="Events" href="/events" icon={eventsAsset}>Evenimente, intalniri si activitati pentru familie.</FeatureCard>
         </div>
       </section>
-      <StreamSection />
       <section className="bg-white py-16">
         <div className="container-shell">
           <SectionTitle eyebrow="Calendar" title="Upcoming events">Participa la activitatile comunitatii si descopera proiectele urmatoare.</SectionTitle>

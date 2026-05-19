@@ -1,0 +1,294 @@
+{
+  "suggestions": [
+    {
+      "targetSection": "Header logo",
+      "recommendedAssetIds": [
+        "dprp-logo",
+        "commit-global-logo",
+        "foodie-boulevard-logo",
+        "persian-school-logo",
+        "mcs-formulas-logo"
+      ],
+      "recommendedContentIds": [],
+      "reason": "Keeps the school identity visible across the rebuilt site."
+    },
+    {
+      "targetSection": "Homepage Hero",
+      "recommendedAssetIds": [
+        "welcome-homepage",
+        "poster-ioana"
+      ],
+      "recommendedContentIds": [
+        "home"
+      ],
+      "reason": "Good first impression and community identity."
+    },
+    {
+      "targetSection": "Romanian classes card",
+      "recommendedAssetIds": [
+        "ecf6ef694afa435d59ee29347cad9bd0-fit"
+      ],
+      "recommendedContentIds": [
+        "program"
+      ],
+      "reason": "Connects the class offering to the original program description."
+    },
+    {
+      "targetSection": "STREAM card",
+      "recommendedAssetIds": [
+        "festival-stream-2026-poster",
+        "stream-horizontal-1",
+        "festival-stream-poster",
+        "stream-team"
+      ],
+      "recommendedContentIds": [
+        "science-stream"
+      ],
+      "reason": "Directly explains the STREAM concept with festival-specific media."
+    },
+    {
+      "targetSection": "Library card",
+      "recommendedAssetIds": [
+        "0cdbf93a430faf777a198ca1e8ecfb06-556x742-fill",
+        "1d79c59beefa79fb3fd467180a58411e-556x740-fill",
+        "390049d46689510dde5ac8df969fc4c0-fill",
+        "4ecebdc487cfd93d4e84e34c22f03083-fill",
+        "50e1635e856698dca1e710180336661f-556x742-fill",
+        "65155f4848365ae8da710065d3afab11-556x742-fill"
+      ],
+      "recommendedContentIds": [
+        "library"
+      ],
+      "reason": "Uses book/library visuals with extracted library copy."
+    },
+    {
+      "targetSection": "Events card",
+      "recommendedAssetIds": [
+        "poster-ioana",
+        "ziua-romaneasca-2025-3"
+      ],
+      "recommendedContentIds": [
+        "events"
+      ],
+      "reason": "Promotes recurring community events with existing flyers and event imagery."
+    },
+    {
+      "targetSection": "About section",
+      "recommendedAssetIds": [
+        "97b884ca72a8237505b1375eb941d20c-1720x1290-fit",
+        "welcome-homepage",
+        "ecf6ef694afa435d59ee29347cad9bd0-fit"
+      ],
+      "recommendedContentIds": [
+        "about"
+      ],
+      "reason": "Combines school context with community imagery."
+    },
+    {
+      "targetSection": "STREAM section",
+      "recommendedAssetIds": [
+        "festival-stream-2026-poster",
+        "stream-horizontal-1",
+        "festival-stream-poster",
+        "stream-team"
+      ],
+      "recommendedContentIds": [
+        "science-stream"
+      ],
+      "reason": "Supports a full STREAM section using posters, logos, and science/festival images."
+    },
+    {
+      "targetSection": "Events page",
+      "recommendedAssetIds": [
+        "image-ts1686580821",
+        "069210dbd6616dc57d47e85e5f14f3b9-fit",
+        "3310eb5329f98efeace27811b9fccbdf-fit",
+        "51e3e4c10628ce9be379a4e2918438f3-fit",
+        "66c7e8e3145bd53607f1a39b9649b52e-fit",
+        "758953a0b5956b29d29f53578051bc6b-574x144-fit",
+        "7d93a7929dbb7b4c622628b70e82efee-fit",
+        "867a7133302be940b0b385ca7419d896-fit",
+        "87d3be226b200a8e8d7e010d4b0d2de6-1710x1082-fit",
+        "8d2b38ca419c54a4be78242ccc0115bd-fit",
+        "999ca6abad1d29adfb7acf676ba03efb-fit",
+        "bc44f9222f2d7c78eadbbea8cf25e714-fit"
+      ],
+      "recommendedContentIds": [
+        "events"
+      ],
+      "reason": "Provides enough material for current and past event listings."
+    },
+    {
+      "targetSection": "Partners section",
+      "recommendedAssetIds": [
+        "758953a0b5956b29d29f53578051bc6b-716x180-fit",
+        "image-ts1696263425",
+        "image-ts1701718634",
+        "dprp-logo",
+        "commit-global-logo",
+        "foodie-boulevard-logo",
+        "persian-school-logo",
+        "mcs-formulas-logo"
+      ],
+      "recommendedContentIds": [
+        "partners"
+      ],
+      "reason": "Reuses sponsor and partner logos while keeping acknowledgements accurate."
+    },
+    {
+      "targetSection": "Gallery page",
+      "recommendedAssetIds": [
+        "75f913813e6532bdbdb94596d4fd9499-fit",
+        "7fc1ff09bef95d7512afa5953ba42c8f-fit",
+        "82f95ce432ea96418bec917a1cdc0c3b-fit",
+        "88dbc2dfe37fc520627aed991ec08e2c-64x42-fit",
+        "c883d5fb98d5ee82e53f9ac145876314-126x66-fit",
+        "d6c7d217a8023c8fb787b99baeec96c3-fit"
+      ],
+      "recommendedContentIds": [
+        "home",
+        "events"
+      ],
+      "reason": "General community photos can populate a visual archive without overloading primary pages."
+    },
+    {
+      "targetSection": "Footer/supporter section",
+      "recommendedAssetIds": [
+        "dprp-logo",
+        "commit-global-logo",
+        "foodie-boulevard-logo",
+        "persian-school-logo",
+        "mcs-formulas-logo"
+      ],
+      "recommendedContentIds": [
+        "partners",
+        "home"
+      ],
+      "reason": "Footer can carry contact, supporter, and organization identity references."
+    },
+    {
+      "targetSection": "Admin media library",
+      "recommendedAssetIds": [
+        "scoala-romaneasca-logo",
+        "97b884ca72a8237505b1375eb941d20c-1720x1290-fit",
+        "school-header-banner",
+        "dprp-logo",
+        "festival-stream-2026-poster",
+        "welcome-homepage",
+        "0cdbf93a430faf777a198ca1e8ecfb06-556x742-fill",
+        "1d79c59beefa79fb3fd467180a58411e-556x740-fill",
+        "390049d46689510dde5ac8df969fc4c0-fill",
+        "4ecebdc487cfd93d4e84e34c22f03083-fill",
+        "50e1635e856698dca1e710180336661f-556x742-fill",
+        "65155f4848365ae8da710065d3afab11-556x742-fill",
+        "6a9a9e019600239a673c5676a20eb8e4-556x742-fill",
+        "774f0b8b1d92308c3df5953f93aacea4-fill",
+        "9b53c448057e34b40f8a2c4669581fb6-fill",
+        "c4152ce8d96f6bf010cfc31367c37888-fill",
+        "ca4d111d935c94fabeb859f014906b4d-556x742-fill",
+        "d83827a6c1f5c573f8d1e9c0c8d30ce7-fill",
+        "da86a4441bea7e111d89cb853cd9e3c9-556x742-fill",
+        "e915c655212922640792335558ba3e39-fit",
+        "fae81431ff3df8e2d79d53e6b27f6858-fill",
+        "fcf918976635c12322d189f2242ea6ec-fit",
+        "fe2d08ffc504168e1bc06ebfe34b79d8-556x742-fill",
+        "image-ts1686580821",
+        "75f913813e6532bdbdb94596d4fd9499-fit",
+        "7fc1ff09bef95d7512afa5953ba42c8f-fit",
+        "82f95ce432ea96418bec917a1cdc0c3b-fit",
+        "88dbc2dfe37fc520627aed991ec08e2c-64x42-fit",
+        "c883d5fb98d5ee82e53f9ac145876314-126x66-fit",
+        "d6c7d217a8023c8fb787b99baeec96c3-fit",
+        "27b8d8520e77a8afadf24bacc35863a8-fit",
+        "069210dbd6616dc57d47e85e5f14f3b9-fit",
+        "3310eb5329f98efeace27811b9fccbdf-fit",
+        "51e3e4c10628ce9be379a4e2918438f3-fit",
+        "66c7e8e3145bd53607f1a39b9649b52e-fit",
+        "758953a0b5956b29d29f53578051bc6b-574x144-fit",
+        "7d93a7929dbb7b4c622628b70e82efee-fit",
+        "867a7133302be940b0b385ca7419d896-fit",
+        "87d3be226b200a8e8d7e010d4b0d2de6-1710x1082-fit",
+        "8d2b38ca419c54a4be78242ccc0115bd-fit",
+        "999ca6abad1d29adfb7acf676ba03efb-fit",
+        "bc44f9222f2d7c78eadbbea8cf25e714-fit",
+        "c24b73acc7abec92b32dfd2eaa3c19a3-fit",
+        "c624c4fc52c540c5613909f734e8b859-fit",
+        "ccab31064d38547c4f0843c790eac181-fit",
+        "d097922e9d9f78e93d0be0441d4947c1-fit",
+        "d1676d044f920db86df28ef868172be1-1720x968-fit",
+        "d692d546d4de572ef074308c7930d01d-fit",
+        "de11aa901c74823bac7ed1a52741b509-fit",
+        "image-ts1698873606",
+        "poster-ioana",
+        "resources-faef71fe1e57ef-71930f3bf3",
+        "sebarea-toamnei-2-ts1696418980",
+        "stream-horizontal-1",
+        "ziua-romaneasca-2025-3",
+        "inapoi-la-scoala-1-ts1696419011",
+        "758953a0b5956b29d29f53578051bc6b-716x180-fit",
+        "image-ts1696263425",
+        "image-ts1701718634",
+        "ecf6ef694afa435d59ee29347cad9bd0-fit",
+        "00767dd2af07156b3f7e11c43d529650-1500x1138-0x409-1500x2000-crop",
+        "072f7cc08ea1befcf0e2690948d23138-fit",
+        "0b86c2d5b59a74b1cbb5d9f454a5fef9-fit",
+        "17c5e46ae2e52773902c32af7c4b90ef-1360x370-fit",
+        "1e6756d24d6ae22e72051e500954560d-2032x502-fit",
+        "269914b851b19cae71a332f0e2d7973e-fit",
+        "2e5659eeb9719b9e4384192d4509e659-1714x1072-fit",
+        "33d741f581c0a190585346e2ab5c593d-fit",
+        "3d96951af448497be3b9d5b69e612b4a-996x598-604x0-1600x900-crop",
+        "4375a8c13666ab613af659af9788e46f-798x628-fit",
+        "4df26706dcea28cfdf2b05a9524d4db4-494x628-fit",
+        "5326846bab1c6e4d54db7e29b708e6a8-1536x826-0x69-1536x1024-crop",
+        "557f670e7f6d9f967e7a6cfd43eb1d53-927x1224-197x119-1280x1600-crop",
+        "604daf64c69441ae036f4ace1bd08450-1600x830-0x370-1600x1200-crop",
+        "73c3ce4572a7f4635b1c2a4938a82c8a-300x214-0x39-300x300-crop",
+        "767722243532c220e34568d249aca12e-1600x1249-0x144-1600x1600-crop",
+        "7a7687d674d7f8bdf812c9fccd41ad0d-1210x802-394x0-1604x802-crop",
+        "842787c5dca704d0edf1d41005f144f5-300x161-0x13-300x183-crop",
+        "aa299aee99b3a98fcd762feba44e9098-1224x536-fit",
+        "art-between-words",
+        "b2dd52ccc13389fff12d4dea5b75fb0e-1152x1685-0x0-1152x2048-crop",
+        "b3ce00491e6efe8d483b63bb1ae3bacc-fit",
+        "body-scratch",
+        "c1d5443e5e1d12376615b89f812379f3-480x682-fit",
+        "c2799560853251fe4656c895ec6baf22-1718x584-fit",
+        "c4beeea88e8572c2e5396629a99c114b-500x465-0x0-500x500-crop",
+        "carti-pentru-matei-logo",
+        "commit-global-logo",
+        "daf8cfbb1535f54d7b5bcf6672217896-fit",
+        "e7f23b5472807fe2a127ab183e5e86eb-381x325-69x259-450x800-crop",
+        "ec24590b9c238a6c892b45b5a92ed1f4-1690x433-0x187-1690x822-crop",
+        "edsnaps",
+        "f52d0ba1b809bb4034b055c8888bb8e8-fit",
+        "f7d19bd53e87319f1e9390fe1818d6e8-3000x1517-0x708-3000x3000-crop",
+        "face-painting",
+        "ff998a20709ad76b0dd56995fad588c9-2048x895-0x115-2048x1182-crop",
+        "foodie-boulevard-logo",
+        "francofilous-logo",
+        "image-ts1686577724",
+        "kletskoppen-logo",
+        "persian-school-logo",
+        "mcs-formulas-logo",
+        "festival-stream-poster",
+        "resources-faef71fe1e57ef-3d28de64eb",
+        "romanian-school-eindhoven",
+        "stream-team",
+        "woven-stars",
+        "yummy-trailer"
+      ],
+      "recommendedContentIds": [
+        "home",
+        "library",
+        "about",
+        "team",
+        "events",
+        "partners",
+        "program",
+        "science-stream"
+      ],
+      "reason": "Manifest IDs allow Codex or an admin tool to browse and place all reusable media consistently."
+    }
+  ]
+}

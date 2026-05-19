@@ -23,7 +23,7 @@ export const programs: Program[] = [
     title: "STREAM / Science",
     summary: "Ateliere interdisciplinare care aduc impreuna stiinta, tehnologia, lectura si arta.",
     description: "Activitati practice pentru curiozitate, colaborare si gandire creativa.",
-    image: "/images/events/stream-2025.jpg",
+    image: "/images/programs/stream-meaning.png",
     ageGroups: ["Scoala primara", "Gimnaziu"],
     mode: "Ateliere si festival",
   },
